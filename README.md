@@ -3,6 +3,7 @@
 ## Theme
 
 This project uses a custom `dynamic-grid` theme, which aims to mitigate the missing layouting options in marp. The grid is activated by spanning a `<div>` block around the slide. This main block needs to classes, `dg` and either `dg-row` or `dg-col` in order to specify the main style.
+Examples can be found in the [dynamic-grid test file](dynamic-grid/test.md)
 
 ### dg-row
 
